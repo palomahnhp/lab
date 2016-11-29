@@ -1,0 +1,53 @@
+<%= form_for(analytic) do |f| %>
+  <% if analytic.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(analytic.errors.count, "error") %> impiden que se grabe esta analítica:</h2>
+
+      <ul>
+      <% analytic.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+<div class="row">
+    <div class="small-6 columns">
+      <%= f.label :patient_id, "Paciente"%>
+      <%= f.text_field :patient_id %>
+     </div>
+    <div class="row">
+      <div  class="small-1 columns">
+        <%= f.label :extracted_at, "Fecha Extracción"%>
+        <%= f.text_field :extracted_at %>
+      </div>
+      <div class="small-6 columns">
+        <%= f.label :extracted_in, "Centro de Extracción"%>
+        <%= f.text_field :extracted_in %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-1 columns">
+        <%= f.label :prescribed_at, "Fecha de prescripción"%>
+        <%= f.text_field :prescribed_at %>
+      </div>
+      <div  class="small-1 columns">
+        <%= f.label :doctor_id, "Médico"%>
+        <%= f.text_field :doctor_id %>
+      </div>
+      <div  class="small-6 columns">
+        <%= f.label :prescribed_by, "Prescito por "%>
+        <%= f.text_field :prescribed_by %>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-4 columns">
+        <%= f.label :reason, "Razón" %>
+        <%= f.text_field :reason %>
+      </div>
+    </div>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,163 @@
+Respuesta Laboratorio
+S'. PRIMERC DE MAYO	N°extracción	57443175	Página:	1 13
+IDADE VEL QUEZ, 7 RIVAS-VACIAMADRID 28521	F. Impresión:	3011212014 10:08
+[LABORATORIO 1 LABORATORIO CENTRAL
+Fecha	2211212014
+N° Analítica:	28509429
+Prioridad	Normal
+Capítulo / Determinaciones
+HORMONAS **Estudio Tiroideo**
+T.S.H.
+HEMATOLOGÍA **Hemograma**
+• Datos paciente
+HERNANDEZ NAVARRO, PALOMA
+CALLE PADRE ELLACURIA, 14,
+RIVAS-VACIAMADRID
+Telf. 916667672	Edad 53 años
+CIP F1RNV610842917011	NASS 280371185547	C.Aut 1413651930
+Resultado Situación Rangos de Normalidad Unidades Comentario
+3,88	0,35	5,5	pU/ml	En mujeres gestantes, valores de referencia:
+10trimestre: 01-2.5 pU/ml 20trimestre: 0.2-3.0 pU/ml 30trimestre: 0.3-3.5 pU/ml
+Hematíes	4,5	4	5,5	10E6/pL	
+Hemoglobina	13,6	12	16	g/dL	
+Hematocrito	40,0	36	47	% -	
+V.C.M	89,0	82	98	fL	
+H.C.M	30,3	27	32	pg	
+C.H.C.M	34,0	32	35	9/dL	
+RDW	13,4	11	15	%	
+Leucocitos	6,15	4	10,5	10E31pL	
+Neutrófilos	4,1	1,7	7,5	10E3/pL	
+Linfocitos	1,6	1	4	10E3/pL	
+Monocitos	0,3	0,2	1	10E3/pL	
+Eosinófllos	0,1	0,1	0,5	10E3/pL	
+Basófilos	0,0		0,2	10E3/pL	
+Celulas no identificadas (LUC)	0,1		0,4	1OE3pL	
+Neutrófilos-%.................. ---- ....------ ................. ----- ....... -----------	.............6&3....................	42........................	74..........................	......................	...........................................................................................
+Linfocitos %	25,3	20	45	%	
+Monocitos%	4,7	4	10	%	
+Eosinófilos %	1,8	1	4	%	
+Basófilos %	0,3		2	%	
+Celulas no identificadas (LUC) %	1,6		4	%	
+Plaquetas	249,0	140	420	10E3/pL	
+Volumen plaquetario medio	7.1	<	9	13	fL	
+VELOCIDAD DE SEDIMENTACIÓN					
+Velocidad de sedim. (VSG)	43	>		20		
+HEMATOLOGÍA. COAGULACIÓN					
+**Estudio de Coagulación **					
+Tiempo de protrombina	11,0	9	13	segundos	
+Actividad de protrombina (1. Quick)	93,1	70	120	%	
+i.N.R.	103		115		
+1TPA (T.Cefalina)	27,0	22,3	31,3	seg	Nuevos valores de referencia desde
+					19.02.2013 por cambio de técnica
+Fibrinógeno derivado	446.1	>	150	400	mg/dL.	
+BIOQUÍMICA					
+Glucosa	81,0	70	110	mg/dl	
+Creatinina	0,66	0,5	1,1	mg/dl	
+Filtrado Glomerular estimado	> 60	60		ml/minh.	
+(MDRD-IDMS)				73m2	
+Ac. Urico	3,3	2,1	7,4	mg/dl	Nuevo rango de referencia desde el
+					22.07.2013
+Colesterol Total	204	>	100	200	mg/dl	
+Triglicéridos	99,0		150	mg/dl	
+Colesterol-HDL	44,0	40		mg/dl	
+Colesterol LDL (Calculado)	140,0		160	mg/dl	
+Albúmina	4,0	3,2	4,8	g/dl	
+Bilirrubina total	0,3	.	0,3	1,2	mg/dl	
+Remitente: Dr.	MARTIN GARRIDO, MARIA JOSE
+Especialidad MEDICINA FAMILIAR Y COMUNITARIA
+CIAS: •	1601 0601 07T	N° Colegiado: 28151087-4
+Respuesta Laboratorio
+C.S. PRIMERO DE MAYO	N°extracción	57443175	Página:	2/3
+AVDA DE VELAZQUEZ, 7 RIVAS-VACIAMADRID 28521	F. Impresión:	3011212014 10:08
+Capítulo / Determinaciones GPT (ALT)
+GGT
+Sodio
+Potasio
+Calcio
+Calcio corregido (albúmina) Fósforo
+Vitamina B12
+Ac. Fálico
+**Estudio del metabolismo del Hierro**
+Hierro
+Ferritina
+Transferrina
+Indice Saturación Transferrina
+Resultado Situación Rangos de Normalidad Unidades Comentario
+17,0	10	49	UIL	Nuevo rango de referencia desde el
+				22.07.2013
+11,0		38	UIL	
+143,0	135	147	mmol/L	
+4,7	3,5	5,2	mmol/L	Nuevo rango de referencia desde el
+				22.07.2013
+8.5	<	8,6	10	mg/dl	
+8,7	8,6	10,2	mg/dl	
+3,4	2,6	4,8	mg/dl	
+187	<	211	911	pglml	
+16,6	3,4		ng/ml	Nuevo rango de referencia desde el
+				22.07.2013
+	47	<	50	170	pg/dl
+	116,0	10	120	ng/ml
+	207	<	250	380	mg/dl
+	16.1	<	20	50	El IST ha sido calculado mediante la formula:
+IST= (Hierro sérico * 70,9) / Transferrina)
+PROTEÍNAS
+Proteína C reactiva	9.5
+INMUNOLOGÍA
+	5	mg/L
+citoplasmico tipo mitocondrial, titulo 11320. Negativo <1/1 60, Positivo >11160
+Negativo<10 UA/ml, Positivo>=10 UNmI Negativo<10 UNmI, Positivo>=10 UAImI Negativo<10 UA/mI, Positivo>10 UNmI Negativo<10 UNmI, Positivo>=10 UA/mI Negativo<10 UA/mI, Positivo>=10 UNmI Negativo<10 UAImI, Positivo>=10 UNmI Negativo<10 UA/mI, Positivo-10 UA/ml
+Ui/miNeg<30 Ui/ml ind3u=50-Ui/rn,-Pos-50-tJi/rnl--
+Negativo <1/80 Positivo > 1180
+>	60	UI/ml
+30	100	ng/ml	VALORES DE REFERENCIA: NIÑOS
+Suficiencia: 20.0-100.0 ng/ml Insuficiencia: 151-19.9 ng/mI Deficiencia: <15.0	ng/mI
+ADULTOS Suficiencia: 30.0-100.0 ng/mI Insuficiencia: 20.1-29.9 ng/mI Deficiencia: <20.0	ng/ml
+	5	ng/mI
+5	7,5	
+1005	1030	g/L
+30	mg/di
+15	mg/di
+5	mg/dl
+	mg/dl
+1	mg/dl
+5	cel/pL
+10	cel/pL
+Ac. Antinucleares (ANA)	ANA negativo.
+	Se detecta un
+	patron
+Ac. Anti Jo 1	Negativo
+Ac. Anti ScI. 70	Negativo
+Ac. Anti SS-A / Ro	Negativo
+Ac. Anti SS-13 / La	Negativo
+Ac. Anti-Sm	Negativo
+Ac. Anti RNP-U1	Negativo
+Ac. Anti Centrómero	Negativo
+Ac.	-DHA)NeatiVo	
+Ac. Anti Mitocondriales	Negativo
+**Ac. Antitiroideos**	
+Ac. Antimicrosomales-TPO	458.6
+PRUEBAS ESPECIALES	
+25-01-1-Vitamina D	23.1
+MARCADORES T.	
+CEA (Ag Carcinoembrionario)	<0.5
+ORINA. ESTUDIO BÁSICO Y SEDIMENTO	
+**Sistemático de Orina**	
+pH	6,0
+Densidad	1015,0
+Proteínas	Negativo
+Glucosuria	Negativo
+C.Cetónicos	Negativo
+Bilirrubina	NEGATIVO
+Urobilinágeno	Negativo
+Nitritos	Negativo
+Hematíes	Negativo
+Leucocitos	Negativo
+Comentario al sedimento:	No se observa
+	nada anormal
+PERFILES
+Perfil Bioq. Básica Perfil Lipídico
+Perfil Hepático
+Perfil Renal
+Remitente:	Dr.	MARTIN GARRIDO, MARIA JOSE
+Especialidad MEDICINA FAMILIAR Y COMUNITARIA
+CIAS:	1601 0601 07T	N° Colegiado: 28151087-4

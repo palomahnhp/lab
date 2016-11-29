@@ -1,0 +1,1 @@
+json.partial! "determinations/determination", determination: @determination

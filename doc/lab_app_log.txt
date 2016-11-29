@@ -1,0 +1,61 @@
+lab_app_log.txt
+- $ rails new lab -d postgresql
+- $ git init
+
+- Cambio de version rails en gemfile 5.0.0.1
+
+  $ bundle install
+Bundler could not find compatible versions for gem "actionpack":
+  In snapshot (Gemfile.lock):
+    actionpack (= 4.2.7.1)
+
+  In Gemfile:
+    rails (= 5.0.0.1) was resolved to 5.0.0.1, which depends on
+      actionpack (= 5.0.0.1)
+
+    sass-rails (~> 5.0) was resolved to 5.0.6, which depends on
+      railties (< 6, >= 4.0.0) was resolved to 4.2.7.1, which depends on
+        actionpack (= 4.2.7.1)
+
+    sass-rails (~> 5.0) was resolved to 5.0.6, which depends on
+      sprockets-rails (< 4.0, >= 2.0) was resolved to 3.2.0, which depends on
+        actionpack (>= 4.0)
+
+Running `bundle update` will rebuild your snapshot from scratch, using only
+the gems in your Gemfile, which may resolve the conflict.
+
+  $ bundle update
+Installing rack 2.0.1 (was 1.6.4)
+Installing nio4r 1.2.1 with native extensions
+Installing arel 7.1.4 (was 6.0.3)
+Installing rdoc 4.3.0 (was 4.2.2)
+Installing uglifier 3.0.3 (was 3.0.2)
+Installing sdoc 0.4.2 (was 0.4.1)
+Installing activesupport 5.0.0.1 (was 4.2.7.1)
+Installing rails-dom-testing 2.0.1 (was 1.0.7)
+Installing activemodel 5.0.0.1 (was 4.2.7.1)
+Installing spring 2.0.0 (was 1.7.2)
+Installing activejob 5.0.0.1 (was 4.2.7.1)
+Installing activerecord 5.0.0.1 (was 4.2.7.1)
+Installing actionview 5.0.0.1 (was 4.2.7.1)
+Installing actionpack 5.0.0.1 (was 4.2.7.1)
+Installing actioncable 5.0.0.1
+Installing actionmailer 5.0.0.1 (was 4.2.7.1)
+Installing railties 5.0.0.1 (was 4.2.7.1)
+Installing rails 5.0.0.1 (was 4.2.7.1)
+
+// Crear la BD
+sudo su - postgres
+psql
+// CREATE USER postgres_user WITH PASSWORD 'password';
+CREATE DATABASE lab_development OWNER phn001;
+
+// instalar foundation
+$ gem foundation-rails
+$ rails g foundation:install
+ insert  app/assets/javascripts/application.js
+      append  app/assets/javascripts/application.js
+      create  app/assets/stylesheets/foundation_and_overrides.scss
+      create  app/assets/stylesheets/_settings.scss
+      insert  app/assets/stylesheets/application.css
+    conflict  app/views/layouts/application.html.erb

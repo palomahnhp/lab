@@ -1,0 +1,37 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Analytics</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Paciente</th>
+      <th>Fch.Extracción</th>
+      <th>Lugar</th>
+      <th>Fch.Prescripción</th>
+      <th>Prescrito por</th>
+      <th>Motivo</th>
+      <th></th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @analytics.each do |analytic| %>
+      <tr>
+        <td><%= @nalytic.id %></td>
+        <td><%= @analityc.extracted_at %></td>
+        <td><%= @analityc.extracted_by %></td>
+        <td><%= @analityc.reason %></td>
+        <td><%= @analityc.id %></td>
+        <td><%= link_to 'Show', analytic %></td>
+        <td><%= link_to 'Edit', edit_analytic_path(analytic) %></td>
+        <td><%= link_to 'Destroy', analytic, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Analytic', new_analytic_path %>
